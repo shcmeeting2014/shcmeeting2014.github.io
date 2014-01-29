@@ -1,0 +1,23 @@
+---
+layout: post
+title: Christoph Hauert
+description: "Confirmed Speakers"
+time: 2013-05-31 11:30:00
+category: articles
+comments: true  
+---
+
+<footer class="entry-meta">
+<img src="{{ site.url }}/images/hauert.gif" alt="Hauert photo">
+<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">Christoph Hauert</a></span></span>
+</footer>
+
+###Bio
+Department of Mathematics
+The University of British Columbia
+
+With  a primary interest in the evolution of cooperation and the role of population structures, Christoph works on different aspects of how cooperation arises and is maintained. In particular, this includes voluntary participation, adding reward or punishment opportunities and structured populations.
+
+##Title
+
+###Abstract

@@ -1,0 +1,26 @@
+---
+layout: post
+title: Corina E. Tarnita
+description: "Confirmed Speakers"
+time: 2013-05-31 11:30:00
+category: articles
+comments: true  
+---
+
+#Corina Tarnita
+
+<footer class="entry-meta">
+<img src="{{ site.url }}/images/tarnita.jpg" alt="Tarnita photo">
+<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">Corina E. Tarnita
+</a></span></span>
+</footer>
+
+###Bio
+Department of Ecology and Evolutionary Biology
+Princeton University
+
+With a BA and PhD in Mathematics from Harvard, Corina works on how population structure affects the outcome of evolutionary processes, whether individuals interact at random, or whether they interact in well-defined networks, and how crucial are these in the understanding of biological interactions. Her work led to a general result that describes the effect of structure on evolution.
+
+##Title
+
+###Abstract

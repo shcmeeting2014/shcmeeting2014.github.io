@@ -1,0 +1,24 @@
+---
+layout: post
+title: Yamir Moreno
+description: "Confirmed Speakers"
+time: 2013-05-31 11:30:00
+category: articles
+comments: true  
+---
+
+<footer class="entry-meta">
+<img src="{{ site.url }}/images/moreno.jpg" alt="Moreno photo">
+<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">Yamir Moreno</a></span></span>
+</footer>
+
+###Bio
+Institute for Biocomputation and Physics of Complex Systems
+Department of Theoretical Physics, Faculty of Sciences
+University of Zaragoza
+
+With a background in statistical physics and in the physics of complex systems, Yamir has worked on complex networks in several fields of science, including interactions between structure and function in biological, technological and social networks, nonlinear dynamical systems coupled to complex structures and the emergence of collective behavior.
+
+##Title
+
+###Abstract

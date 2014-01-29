@@ -1,0 +1,25 @@
+---
+layout: post
+title: Jorge Pacheco
+description: "Confirmed Speakers"
+time: 2013-05-31 11:30:00
+category: articles
+comments: true  
+---
+
+<footer class="entry-meta">
+<img src="{{ site.url }}/images/pacheco.jpg" alt="Pacheco photo">
+<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">Jorge Pacheco</a></span></span>
+</footer>
+
+###Bio
+Departamento de Matemática e Aplicações
+Universidade do Minho and
+ATP-Group, CMAF & CBMA,
+Instituto para a Investigação Interdisciplinar, Lisbon
+
+Active in a variety of research topics, ranging from many-body physics to mathematical description of evolutionary processes such as human cancer, Jorge theoretically explores the evolution of cooperation on complex networks.
+
+##Title
+
+###Abstract

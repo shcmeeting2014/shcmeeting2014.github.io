@@ -1,0 +1,25 @@
+---
+layout: post
+title: Dirk Semman
+description: "Confirmed Speakers"
+time: 2013-05-31 11:30:00
+category: articles
+comments: true  
+---
+
+<footer class="entry-meta">
+<img src="{{ site.url }}/images/semman.jpg" alt="Semman photo">
+<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">Dirk Semman
+</a></span></span>
+</footer>
+
+###Bio
+Courant Research Center Evolution of Social Behavior
+Research Group Evolution of cooperation and prosocial behaviour 
+University of Göttingen
+
+As an evolutionary biologist working experimentally on the topic of human social behavior, Dirk focuses on the evolution and maintenance of cooperative behavior in humans in structured populations, and also on comparative studies on cooperation between humans and between non-human primates.
+
+##Title
+
+###Abstract

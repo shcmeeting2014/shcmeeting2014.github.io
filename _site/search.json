@@ -1,0 +1,91 @@
+[
+	
+		{
+		  "title"      : "Corina E. Tarnita",
+		  "category"   : "articles",
+		  "url"        : "/articles/tarnita",
+		  "date"       : "Mon May 26 00:00:00 +0200 2014",
+		  "shortdate"  : "May 26, 2014"
+		} ,
+	
+		{
+		  "title"      : "György Szabó",
+		  "category"   : "articles",
+		  "url"        : "/articles/szabo",
+		  "date"       : "Mon May 26 00:00:00 +0200 2014",
+		  "shortdate"  : "May 26, 2014"
+		} ,
+	
+		{
+		  "title"      : "Dirk Semman",
+		  "category"   : "articles",
+		  "url"        : "/articles/semman",
+		  "date"       : "Mon May 26 00:00:00 +0200 2014",
+		  "shortdate"  : "May 26, 2014"
+		} ,
+	
+		{
+		  "title"      : "Francisco Santos",
+		  "category"   : "articles",
+		  "url"        : "/articles/santos",
+		  "date"       : "Mon May 26 00:00:00 +0200 2014",
+		  "shortdate"  : "May 26, 2014"
+		} ,
+	
+		{
+		  "title"      : "Angel (Anxo) Sánchez",
+		  "category"   : "articles",
+		  "url"        : "/articles/sanchez",
+		  "date"       : "Mon May 26 00:00:00 +0200 2014",
+		  "shortdate"  : "May 26, 2014"
+		} ,
+	
+		{
+		  "title"      : "Matjaž Perc",
+		  "category"   : "articles",
+		  "url"        : "/articles/perc",
+		  "date"       : "Mon May 26 00:00:00 +0200 2014",
+		  "shortdate"  : "May 26, 2014"
+		} ,
+	
+		{
+		  "title"      : "Jorge Pacheco",
+		  "category"   : "articles",
+		  "url"        : "/articles/pacheco",
+		  "date"       : "Mon May 26 00:00:00 +0200 2014",
+		  "shortdate"  : "May 26, 2014"
+		} ,
+	
+		{
+		  "title"      : "Yamir Moreno",
+		  "category"   : "articles",
+		  "url"        : "/articles/moreno",
+		  "date"       : "Mon May 26 00:00:00 +0200 2014",
+		  "shortdate"  : "May 26, 2014"
+		} ,
+	
+		{
+		  "title"      : "Christoph Hauert",
+		  "category"   : "articles",
+		  "url"        : "/articles/hauert",
+		  "date"       : "Mon May 26 00:00:00 +0200 2014",
+		  "shortdate"  : "May 26, 2014"
+		} ,
+	
+		{
+		  "title"      : "Jelena Grujic",
+		  "category"   : "speakers",
+		  "url"        : "/speakers/grujic",
+		  "date"       : "Mon May 26 00:00:00 +0200 2014",
+		  "shortdate"  : "May 26, 2014"
+		} ,
+	
+		{
+		  "title"      : "Aljaž Ule",
+		  "category"   : "articles",
+		  "url"        : "/articles/Ule",
+		  "date"       : "Mon May 26 00:00:00 +0200 2014",
+		  "shortdate"  : "May 26, 2014"
+		} 
+	
+]

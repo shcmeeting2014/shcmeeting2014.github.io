@@ -1,0 +1,23 @@
+---
+layout: post
+title: Matjaž Perc
+description: "Confirmed Speakers"
+time: 2013-05-31 11:30:00
+category: articles
+comments: true  
+---
+
+<footer class="entry-meta">
+<img src="{{ site.url }}/images/mperc.jpg" alt="Perc photo">
+<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">Matjaž Perc</a></span></span>
+</footer>
+
+###Bio
+Faculty of Natural Sciences and Mathematics
+University of Maribor, Slovenia
+
+With  a physics background, Matjaž studies noise-induced pattern formation in spatially extended systems with applications to the nervous system, game-theoretical models, and social complexity.
+
+##Title
+
+###Abstract

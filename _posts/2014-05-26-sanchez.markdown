@@ -1,0 +1,23 @@
+---
+layout: post
+title: Angel (Anxo) Sánchez
+description: "Confirmed Speakers"
+time: 2013-05-31 11:30:00
+category: articles
+comments: true  
+---
+
+<footer class="entry-meta">
+<img src="{{ site.url }}/images/sanchez.png" alt="Sanchez photo">
+<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">Angel (Anxo) Sánchez</a></span></span>
+</footer>
+
+###Bio
+Department of Mathematics
+Universidad Carlos III de Madrid
+
+Building on his background in physics and mathematics, Anxo has worked on modelling a number of problems arising in different fields, from materials science to biology through behavioral economics.
+
+##Title
+
+###Abstract

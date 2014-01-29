@@ -1,0 +1,24 @@
+---
+layout: post
+title: Aljaž Ule
+description: "Confirmed Speakers"
+time: 2013-05-31 11:30:00
+category: articles
+comments: true  
+---
+
+<footer class="entry-meta">
+<img src="{{ site.url }}/images/ule.jpg" alt="Ule photo">
+<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">Aljaž Ule
+</a></span></span>
+</footer>
+
+###Bio
+Faculty of Economics and Econometrics of the 
+University of Amsterdam
+
+Assistant professor at the Department of General Economics, Aljaž is focused mainly on dynamics of social institutions such as social networks, culture and social norms, and their effect on social behavior such as voluntary assistance and cooperation, utilising laboratory experiments, computer simulations and game theoretic analysis.
+
+##Title
+
+###Abstract

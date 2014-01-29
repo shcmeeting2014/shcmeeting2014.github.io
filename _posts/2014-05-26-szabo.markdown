@@ -1,0 +1,25 @@
+---
+layout: post
+title: György Szabó
+description: "Confirmed Speakers"
+time: 2013-05-31 11:30:00
+category: articles
+comments: true  
+---
+
+<footer class="entry-meta">
+<img src="{{ site.url }}/images/szabo.jpg" alt="Szabo photo">
+<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">György Szabó
+</a></span></span>
+</footer>
+
+###Bio
+Complex System Group
+Research Institute for Technical Physics and Materials Science
+Hungarian Academy of Sciences
+
+With an extensive physics background ranging from self-organization in complex systems, driven lattice gases, cellular automata, equilibrium and non-equilibrium statistical physics, Györy works on evolutionary games on graphs and  with a focus on maintenance of cooperation
+
+##Title
+
+###Abstract

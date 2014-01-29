@@ -1,0 +1,24 @@
+---
+layout: post
+title: Jelena Grujic
+description: "Confirmed Speakers"
+time: 2013-05-31 11:30:00
+category: speakers
+comments: true  
+share: true  
+---
+
+<footer class="entry-meta">
+<img src="{{ site.url }}/images/grujic.jpg" alt="Grujic photo">
+<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">Jelena Grujic</a></span></span>
+</footer>
+
+###Bio
+Complexity & Networks
+Imperial College London
+
+In combination with analytical work, Jelena works on understanding the interaction between spatial structure and cooperative behavior in human societies.
+
+##Title
+
+###Abstract

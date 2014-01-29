@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Spatial Human Cooperation</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2014-01-29T10:01:06+01:00</updated>
+<id>/</id>
+<author>
+  <name>Max Planck Institute for Evolutionary Biology</name>
+  <uri>/</uri>
+  <email>you@email.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Corina E. Tarnita]]></title>
+  <link>/articles/tarnita</link>
+  <id>/articles/tarnita</id>
+  <published>2014-05-26T00:00:00+02:00</published>
+  <updated>2014-05-26T00:00:00+02:00</updated>
+  <author>
+    <name>Max Planck Institute for Evolutionary Biology</name>
+    <uri></uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;corina-tarnita&quot;&gt;Corina Tarnita&lt;/h1&gt;
+
+&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;/images/tarnita.jpg&quot; alt=&quot;Tarnita photo&quot; /&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;Corina E. Tarnita
+&lt;/span&gt;
+&lt;/footer&gt;
+
+&lt;h3 id=&quot;bio&quot;&gt;Bio&lt;/h3&gt;
+&lt;p&gt;Department of Ecology and Evolutionary Biology
+Princeton University&lt;/p&gt;
+
+&lt;p&gt;With a BA and PhD in Mathematics from Harvard, Corina works on how population structure affects the outcome of evolutionary processes, whether individuals interact at random, or whether they interact in well-defined networks, and how crucial are these in the understanding of biological interactions. Her work led to a general result that describes the effect of structure on evolution.&lt;/p&gt;
+
+&lt;h2 id=&quot;title&quot;&gt;Title&lt;/h2&gt;
+
+&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/tarnita&quot;&gt;Corina E. Tarnita&lt;/a&gt; was originally published by Max Planck Institute for Evolutionary Biology at &lt;a href=&quot;&quot;&gt;Spatial Human Cooperation&lt;/a&gt; on May 26, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[György Szabó]]></title>
+  <link>/articles/szabo</link>
+  <id>/articles/szabo</id>
+  <published>2014-05-26T00:00:00+02:00</published>
+  <updated>2014-05-26T00:00:00+02:00</updated>
+  <author>
+    <name>Max Planck Institute for Evolutionary Biology</name>
+    <uri></uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;/images/szabo.jpg&quot; alt=&quot;Szabo photo&quot; /&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;György Szabó
+&lt;/span&gt;
+&lt;/footer&gt;
+
+&lt;h3 id=&quot;bio&quot;&gt;Bio&lt;/h3&gt;
+&lt;p&gt;Complex System Group
+Research Institute for Technical Physics and Materials Science
+Hungarian Academy of Sciences&lt;/p&gt;
+
+&lt;p&gt;With an extensive physics background ranging from self-organization in complex systems, driven lattice gases, cellular automata, equilibrium and non-equilibrium statistical physics, Györy works on evolutionary games on graphs and  with a focus on maintenance of cooperation&lt;/p&gt;
+
+&lt;h2 id=&quot;title&quot;&gt;Title&lt;/h2&gt;
+
+&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/szabo&quot;&gt;György Szabó&lt;/a&gt; was originally published by Max Planck Institute for Evolutionary Biology at &lt;a href=&quot;&quot;&gt;Spatial Human Cooperation&lt;/a&gt; on May 26, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Dirk Semman]]></title>
+  <link>/articles/semman</link>
+  <id>/articles/semman</id>
+  <published>2014-05-26T00:00:00+02:00</published>
+  <updated>2014-05-26T00:00:00+02:00</updated>
+  <author>
+    <name>Max Planck Institute for Evolutionary Biology</name>
+    <uri></uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;/images/semman.jpg&quot; alt=&quot;Semman photo&quot; /&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;Dirk Semman
+&lt;/span&gt;
+&lt;/footer&gt;
+
+&lt;h3 id=&quot;bio&quot;&gt;Bio&lt;/h3&gt;
+&lt;p&gt;Courant Research Center Evolution of Social Behavior
+Research Group Evolution of cooperation and prosocial behaviour 
+University of Göttingen&lt;/p&gt;
+
+&lt;p&gt;As an evolutionary biologist working experimentally on the topic of human social behavior, Dirk focuses on the evolution and maintenance of cooperative behavior in humans in structured populations, and also on comparative studies on cooperation between humans and between non-human primates.&lt;/p&gt;
+
+&lt;h2 id=&quot;title&quot;&gt;Title&lt;/h2&gt;
+
+&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/semman&quot;&gt;Dirk Semman&lt;/a&gt; was originally published by Max Planck Institute for Evolutionary Biology at &lt;a href=&quot;&quot;&gt;Spatial Human Cooperation&lt;/a&gt; on May 26, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Francisco Santos]]></title>
+  <link>/articles/santos</link>
+  <id>/articles/santos</id>
+  <published>2014-05-26T00:00:00+02:00</published>
+  <updated>2014-05-26T00:00:00+02:00</updated>
+  <author>
+    <name>Max Planck Institute for Evolutionary Biology</name>
+    <uri></uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;/images/santos.jpg&quot; alt=&quot;Santos photo&quot; /&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;Francisco Santos
+&lt;/span&gt;
+&lt;/footer&gt;
+
+&lt;h3 id=&quot;bio&quot;&gt;Bio&lt;/h3&gt;
+&lt;p&gt;Department of Computer Science and Engineering 
+Instituto Superior Técnico (IST)
+The engineering school of the University of Lisbon&lt;/p&gt;
+
+&lt;p&gt;With research interests spanning several aspects of complex systems, Francisco works on cultural evolution and dynamics of human cooperation with a link to networks science.&lt;/p&gt;
+
+&lt;h2 id=&quot;title&quot;&gt;Title&lt;/h2&gt;
+
+&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/santos&quot;&gt;Francisco Santos&lt;/a&gt; was originally published by Max Planck Institute for Evolutionary Biology at &lt;a href=&quot;&quot;&gt;Spatial Human Cooperation&lt;/a&gt; on May 26, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Angel (Anxo) Sánchez]]></title>
+  <link>/articles/sanchez</link>
+  <id>/articles/sanchez</id>
+  <published>2014-05-26T00:00:00+02:00</published>
+  <updated>2014-05-26T00:00:00+02:00</updated>
+  <author>
+    <name>Max Planck Institute for Evolutionary Biology</name>
+    <uri></uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;/images/sanchez.png&quot; alt=&quot;Sanchez photo&quot; /&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;Angel (Anxo) Sánchez&lt;/span&gt;
+&lt;/footer&gt;
+
+&lt;h3 id=&quot;bio&quot;&gt;Bio&lt;/h3&gt;
+&lt;p&gt;Department of Mathematics
+Universidad Carlos III de Madrid&lt;/p&gt;
+
+&lt;p&gt;Building on his background in physics and mathematics, Anxo has worked on modelling a number of problems arising in different fields, from materials science to biology through behavioral economics.&lt;/p&gt;
+
+&lt;h2 id=&quot;title&quot;&gt;Title&lt;/h2&gt;
+
+&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/sanchez&quot;&gt;Angel (Anxo) Sánchez&lt;/a&gt; was originally published by Max Planck Institute for Evolutionary Biology at &lt;a href=&quot;&quot;&gt;Spatial Human Cooperation&lt;/a&gt; on May 26, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Matjaž Perc]]></title>
+  <link>/articles/perc</link>
+  <id>/articles/perc</id>
+  <published>2014-05-26T00:00:00+02:00</published>
+  <updated>2014-05-26T00:00:00+02:00</updated>
+  <author>
+    <name>Max Planck Institute for Evolutionary Biology</name>
+    <uri></uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;/images/mperc.jpg&quot; alt=&quot;Perc photo&quot; /&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;Matjaž Perc&lt;/span&gt;
+&lt;/footer&gt;
+
+&lt;h3 id=&quot;bio&quot;&gt;Bio&lt;/h3&gt;
+&lt;p&gt;Faculty of Natural Sciences and Mathematics
+University of Maribor, Slovenia&lt;/p&gt;
+
+&lt;p&gt;With  a physics background, Matjaž studies noise-induced pattern formation in spatially extended systems with applications to the nervous system, game-theoretical models, and social complexity.&lt;/p&gt;
+
+&lt;h2 id=&quot;title&quot;&gt;Title&lt;/h2&gt;
+
+&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/perc&quot;&gt;Matjaž Perc&lt;/a&gt; was originally published by Max Planck Institute for Evolutionary Biology at &lt;a href=&quot;&quot;&gt;Spatial Human Cooperation&lt;/a&gt; on May 26, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Jorge Pacheco]]></title>
+  <link>/articles/pacheco</link>
+  <id>/articles/pacheco</id>
+  <published>2014-05-26T00:00:00+02:00</published>
+  <updated>2014-05-26T00:00:00+02:00</updated>
+  <author>
+    <name>Max Planck Institute for Evolutionary Biology</name>
+    <uri></uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;/images/pacheco.jpg&quot; alt=&quot;Pacheco photo&quot; /&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;Jorge Pacheco&lt;/span&gt;
+&lt;/footer&gt;
+
+&lt;h3 id=&quot;bio&quot;&gt;Bio&lt;/h3&gt;
+&lt;p&gt;Departamento de Matemática e Aplicações
+Universidade do Minho and
+ATP-Group, CMAF &amp;amp; CBMA,
+Instituto para a Investigação Interdisciplinar, Lisbon&lt;/p&gt;
+
+&lt;p&gt;Active in a variety of research topics, ranging from many-body physics to mathematical description of evolutionary processes such as human cancer, Jorge theoretically explores the evolution of cooperation on complex networks.&lt;/p&gt;
+
+&lt;h2 id=&quot;title&quot;&gt;Title&lt;/h2&gt;
+
+&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/pacheco&quot;&gt;Jorge Pacheco&lt;/a&gt; was originally published by Max Planck Institute for Evolutionary Biology at &lt;a href=&quot;&quot;&gt;Spatial Human Cooperation&lt;/a&gt; on May 26, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Yamir Moreno]]></title>
+  <link>/articles/moreno</link>
+  <id>/articles/moreno</id>
+  <published>2014-05-26T00:00:00+02:00</published>
+  <updated>2014-05-26T00:00:00+02:00</updated>
+  <author>
+    <name>Max Planck Institute for Evolutionary Biology</name>
+    <uri></uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;/images/moreno.jpg&quot; alt=&quot;Moreno photo&quot; /&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;Yamir Moreno&lt;/span&gt;
+&lt;/footer&gt;
+
+&lt;h3 id=&quot;bio&quot;&gt;Bio&lt;/h3&gt;
+&lt;p&gt;Institute for Biocomputation and Physics of Complex Systems
+Department of Theoretical Physics, Faculty of Sciences
+University of Zaragoza&lt;/p&gt;
+
+&lt;p&gt;With a background in statistical physics and in the physics of complex systems, Yamir has worked on complex networks in several fields of science, including interactions between structure and function in biological, technological and social networks, nonlinear dynamical systems coupled to complex structures and the emergence of collective behavior.&lt;/p&gt;
+
+&lt;h2 id=&quot;title&quot;&gt;Title&lt;/h2&gt;
+
+&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/moreno&quot;&gt;Yamir Moreno&lt;/a&gt; was originally published by Max Planck Institute for Evolutionary Biology at &lt;a href=&quot;&quot;&gt;Spatial Human Cooperation&lt;/a&gt; on May 26, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Christoph Hauert]]></title>
+  <link>/articles/hauert</link>
+  <id>/articles/hauert</id>
+  <published>2014-05-26T00:00:00+02:00</published>
+  <updated>2014-05-26T00:00:00+02:00</updated>
+  <author>
+    <name>Max Planck Institute for Evolutionary Biology</name>
+    <uri></uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;/images/hauert.gif&quot; alt=&quot;Hauert photo&quot; /&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;Christoph Hauert&lt;/span&gt;
+&lt;/footer&gt;
+
+&lt;h3 id=&quot;bio&quot;&gt;Bio&lt;/h3&gt;
+&lt;p&gt;Department of Mathematics
+The University of British Columbia&lt;/p&gt;
+
+&lt;p&gt;With  a primary interest in the evolution of cooperation and the role of population structures, Christoph works on different aspects of how cooperation arises and is maintained. In particular, this includes voluntary participation, adding reward or punishment opportunities and structured populations.&lt;/p&gt;
+
+&lt;h2 id=&quot;title&quot;&gt;Title&lt;/h2&gt;
+
+&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/hauert&quot;&gt;Christoph Hauert&lt;/a&gt; was originally published by Max Planck Institute for Evolutionary Biology at &lt;a href=&quot;&quot;&gt;Spatial Human Cooperation&lt;/a&gt; on May 26, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Jelena Grujic]]></title>
+  <link>/speakers/grujic</link>
+  <id>/speakers/grujic</id>
+  <published>2014-05-26T00:00:00+02:00</published>
+  <updated>2014-05-26T00:00:00+02:00</updated>
+  <author>
+    <name>Max Planck Institute for Evolutionary Biology</name>
+    <uri></uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;/images/grujic.jpg&quot; alt=&quot;Grujic photo&quot; /&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;Jelena Grujic&lt;/span&gt;
+&lt;/footer&gt;
+
+&lt;h3 id=&quot;bio&quot;&gt;Bio&lt;/h3&gt;
+&lt;p&gt;Complexity &amp;amp; Networks
+Imperial College London&lt;/p&gt;
+
+&lt;p&gt;In combination with analytical work, Jelena works on understanding the interaction between spatial structure and cooperative behavior in human societies.&lt;/p&gt;
+
+&lt;h2 id=&quot;title&quot;&gt;Title&lt;/h2&gt;
+
+&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/speakers/grujic&quot;&gt;Jelena Grujic&lt;/a&gt; was originally published by Max Planck Institute for Evolutionary Biology at &lt;a href=&quot;&quot;&gt;Spatial Human Cooperation&lt;/a&gt; on May 26, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Aljaž Ule]]></title>
+  <link>/articles/Ule</link>
+  <id>/articles/Ule</id>
+  <published>2014-05-26T00:00:00+02:00</published>
+  <updated>2014-05-26T00:00:00+02:00</updated>
+  <author>
+    <name>Max Planck Institute for Evolutionary Biology</name>
+    <uri></uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;/images/ule.jpg&quot; alt=&quot;Ule photo&quot; /&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;Aljaž Ule
+&lt;/span&gt;
+&lt;/footer&gt;
+
+&lt;h3 id=&quot;bio&quot;&gt;Bio&lt;/h3&gt;
+&lt;p&gt;Faculty of Economics and Econometrics of the 
+University of Amsterdam&lt;/p&gt;
+
+&lt;p&gt;Assistant professor at the Department of General Economics, Aljaž is focused mainly on dynamics of social institutions such as social networks, culture and social norms, and their effect on social behavior such as voluntary assistance and cooperation, utilising laboratory experiments, computer simulations and game theoretic analysis.&lt;/p&gt;
+
+&lt;h2 id=&quot;title&quot;&gt;Title&lt;/h2&gt;
+
+&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/Ule&quot;&gt;Aljaž Ule&lt;/a&gt; was originally published by Max Planck Institute for Evolutionary Biology at &lt;a href=&quot;&quot;&gt;Spatial Human Cooperation&lt;/a&gt; on May 26, 2014.&lt;/p&gt;</content>
+</entry>
+
+</feed>
